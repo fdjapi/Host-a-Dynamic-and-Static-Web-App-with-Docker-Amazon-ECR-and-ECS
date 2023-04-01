@@ -1,0 +1,1 @@
+# Host-a-Dynamic-and-Static-Web-App-with-Docker-Amazon-ECR-and-ECS
